@@ -1,7 +1,7 @@
 [Курс](https://course456.moodlecloud.com/login/index.php)
 
 # scorm пакет
-![alt text]:(https://i.gyazo.com/82c2fb523074e8f24e199ac7172d498e.png)
+![alttext]:(https://i.gyazo.com/82c2fb523074e8f24e199ac7172d498e.png)
 
 # участиники
 ![alt text]:(https://gyazo.com/8a3b03830e9847caf7d3192ed1510bcf.png)
