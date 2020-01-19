@@ -2,6 +2,7 @@
 
 # scorm пакет
 ![alttext]:(https://i.gyazo.com/82c2fb523074e8f24e199ac7172d498e.png)
+![alt text](https://avatars2.githubusercontent.com/u/11632545?v=3&s=200)
 
 # участиники
 ![alt text]:(https://gyazo.com/8a3b03830e9847caf7d3192ed1510bcf.png)
