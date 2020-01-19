@@ -1,14 +1,14 @@
 [Курс](https://course456.moodlecloud.com/login/index.php)
 
 # scorm пакет
-![alttext]:(https://i.gyazo.com/82c2fb523074e8f24e199ac7172d498e.png)
-![alt text](https://avatars2.githubusercontent.com/u/11632545?v=3&s=200)
+![alttext](https://i.gyazo.com/82c2fb523074e8f24e199ac7172d498e.png)
+
 
 # участиники
-![alt text]:(https://gyazo.com/8a3b03830e9847caf7d3192ed1510bcf.png)
+![alt text](https://gyazo.com/8a3b03830e9847caf7d3192ed1510bcf.png)
 
 # баллы
-![alt text]:(https://gyazo.com/b86ad2e75bce723d6d396a9664cbfad7.png)
+![alt text](https://gyazo.com/b86ad2e75bce723d6d396a9664cbfad7.png)
 
 # доступ
 student 123456
